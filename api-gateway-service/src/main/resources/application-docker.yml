@@ -1,0 +1,5 @@
+url:
+  base:
+    print: http://printMicroservice:8085
+    user: http://userMicroservice:8084
+    readModel: http://readModelService:8087

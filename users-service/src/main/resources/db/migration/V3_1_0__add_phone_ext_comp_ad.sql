@@ -1,0 +1,1 @@
+ALTER TABLE ddd_company_address ADD COLUMN phone_number_extension VARCHAR(10);
